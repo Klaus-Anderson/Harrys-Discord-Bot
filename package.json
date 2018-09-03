@@ -5,7 +5,7 @@
   "main": "bot.js",
   "author": "Harry Cliff",
   "dependencies": {
-    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.io": "github:woor/discord.io#gateway_v6",
     "winston": "^3.0.0"
   }
 }
